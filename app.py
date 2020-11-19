@@ -12,7 +12,7 @@ START_TIME = int(time.time())
 
 headers = {
     'content-type': 'application/json',
-    'X-Api-App-Id': 'v3.r.133119248.d945118aae68aa8589b45fb090d41ff93cc758cf.454152c20c258f0d62b6179c02aa11103d0ab9a8'
+    'X-Api-App-Id': ''
 }
 
 params = {
